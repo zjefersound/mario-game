@@ -1,3 +1,4 @@
+import platformImg from './assets/platform.png'
 const canvas = document.getElementById("canvas");
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
